@@ -1,2 +1,2 @@
 # Day1
-This is 100 days of code
+This is day1 of 100 days of code
